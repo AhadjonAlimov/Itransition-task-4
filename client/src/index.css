@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: rgb(43, 172, 158);
+  background: linear-gradient(0deg, rgba(43, 172, 158, 1) 0%, rgba(0, 174, 239, 1) 100%);
+}
+
+.custom-green {
+  color: #2bac9e;
+}
+
+.custom-container {
+  max-width: 1024px;
+}
